@@ -1,0 +1,120 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(imgaes/wallpaperflare.com_wallpaper.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.container{
+    width: 95%;
+    height: 960px;
+    background-color: rgb(0, 0, 0);
+    padding:5px;
+    margin:20px; 
+}
+.logo{
+    width:250px;
+    height:180px;
+    display: inline-block;
+    margin:5px;
+}
+.navbar{
+    width:850px;
+    padding:3px;
+    height: 40px;
+    margin-bottom: 20px;
+    margin-top: -40px;
+    display: inline-block;
+    align-items: center;
+    background-color: grey;
+    border-radius: 8px;
+}
+.navbar li{
+    display:inline-block;}
+.navbar li button{
+        color:rgb(255, 255, 255);
+        padding:10px;
+        font-family:arial;
+        background-color: rgb(90, 97, 148);
+        text-decoration:none;
+        text-transform:uppercase;
+        font-size:14px;
+        margin-left:35px;
+        display:inline-block ;
+        align-items: center;
+        border-radius: 6px;
+        }
+ .navbar li button:visited {
+            color:rgb(0, 0, 0);
+            padding:20px;
+            font-family:arial;
+            text-decoration:none;
+            background-color: rgb(255, 255, 255);
+            text-transform:uppercase;
+            font-size:16px;
+            display: inline-block;
+            margin-left:35px;
+            margin-bottom: 10px;
+            align-items: center;
+            } 
+ .navbar li button:hover{
+                color: lightcoral;
+                padding:10px;
+                font-family:arial;
+                text-decoration:none;
+                text-transform:uppercase;
+                font-size:16px;
+                margin-left:35px;
+                display: inline-block;
+                align-items: center;
+                }
+ .sider{
+      width:300px;
+      height: 625px;
+      background-color: black;
+      margin-left:5px;
+      margin-top:5px;
+      display: inline-block;}   
+ 
+    
+ #img1{
+         width: 500px;
+        height: 300px;
+        display: inline-block;
+        margin-top:5px;
+        }
+.gpu{
+      border-radius: 10px;
+     
+  }
+.amd{
+    border-radius: 10px;
+}
+.gtx{
+    border-radius: 10px;
+    height: 230px;
+    width: 320px;
+}
+.rx{
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 3px;
+    }
+ .my{
+    border-radius: 10px;
+    align-items: right;
+    margin-left: 5px;
+    margin-top: 5px;
+    align-items: right;
+ }   
+ .big{  
+    width: 880px;
+    height: 600px ;
+    display: inline-block;
+    background-color: white;
+    margin-left:5px;
+    margin-top:5px;
+    border-radius: 10px;
+    } 
